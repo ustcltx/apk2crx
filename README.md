@@ -21,5 +21,11 @@ where:
 	-t Create a tablet version
 	-b backup apk icon
 ```
-#
+#LICENSE
+MIT
+
+#Other
+
+apk2crx online 
+https://huodong.ustc.edu.cn/Crx/create
 
