@@ -27,5 +27,5 @@ MIT
 #Other
 
 apk2crx online 
-https://huodong.ustc.edu.cn/Crx/create
+http://huodongweb.com/Crx/create
 
